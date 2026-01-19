@@ -4,14 +4,14 @@
 
 **本版本为纯净增强版：** 彻底移除原版广告与个人信息，修复编译 Bug，视觉体验更佳，功能更稳定。
 
-![软件界面展示](images/jiemian.png)
+<img src="images/jiemian.png" alt="软件界面展示" width="500">
 
 ---
 
 ### 📥 软件下载
 
 *   **[直接下载绿色版 (夸克网盘)](https://pan.quark.cn/s/d9e177d518d1)**
-*   **[GitHub Releases 页面](https://github.com/)**
+*   **[GitHub Releases 页面](https://github.com/MasterLii/Windows-Update-Delayer-Clean/releases/tag/v2.1)**
 
 ---
 
